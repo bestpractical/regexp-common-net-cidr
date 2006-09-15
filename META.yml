@@ -1,0 +1,12 @@
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: GPL version 2
+name: Regexp-Common-net-CIDR
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Regexp::Common: 0
+  perl: 5.8.0
+version: 0.01
