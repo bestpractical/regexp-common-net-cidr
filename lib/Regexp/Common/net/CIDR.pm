@@ -39,13 +39,19 @@ Patterns for CIDR blocks. Now only next IPv4 formats are supported:
 
 With {-keep} stores address in $1 and number of bits in $2.
 
+=head1 INSTALLATION
+
+  perl Makefile.PL
+  make
+  make install
+
 =head1 CAVEATS
 
 As L<Regexp::Common> doesn't work well with extensions
 named C<Regexp::Common::xxx::yyy> you have to load this extension
 yourself with C<use> or C<require>.
 
-=head AUTHOR
+=head1 AUTHOR
 
 Ruslan U. Zakirov <ruz@bestpractical.com>
 
