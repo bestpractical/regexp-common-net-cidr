@@ -9,4 +9,4 @@ no_index:
 requires: 
   Regexp::Common: 0
   perl: 5.8.0
-version: 0.01
+version: 0.02

@@ -3,7 +3,7 @@ package Regexp::Common::net::CIDR;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Regexp::Common qw(pattern clean no_defaults);
 
