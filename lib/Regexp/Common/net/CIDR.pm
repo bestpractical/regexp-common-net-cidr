@@ -18,7 +18,7 @@ __END__
 
 =head1 NAME
 
-Regexp::Common::net::CIDR -- provide patterns for CDIR blocks.
+Regexp::Common::net::CIDR -- provide patterns for CIDR blocks.
 
 =head1 SYNOPSIS
 
