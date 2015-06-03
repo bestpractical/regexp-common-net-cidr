@@ -6,7 +6,7 @@ configure_requires:
 distribution_type: module
 dynamic_config: 1
 generated_by: 'Module::Install version 1.06'
-license: gpl
+license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -18,5 +18,5 @@ requires:
   Regexp::Common: 0
   perl: 5.8.0
 resources:
-  license: http://opensource.org/licenses/gpl-license.php
+  license: http://dev.perl.org/licenses/
 version: 0.02
